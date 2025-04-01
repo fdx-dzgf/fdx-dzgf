@@ -15,7 +15,7 @@
       <br>
       <br>
       <br>
-       <p align="center">이 병신새끼한테 담배 한 갑 사주기</p>
+       <p align="center"><strong><mark>이 병신새끼한테 담배 한 갑 사주기</mark></strong></p>
       <div>
         <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF">
         <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">
